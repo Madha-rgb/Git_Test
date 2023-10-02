@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 306907453}
   - component: {fileID: 306907457}
   m_Layer: 0
-  m_Name: Square
+  m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -294,6 +294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c4321da2bf511445add8a9a014894cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeed: 0
 --- !u!1 &1684280597
 GameObject:
   m_ObjectHideFlags: 0
